@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<header>
+<img src="header.png" width="1200"/>
+</header>
 # 😉 About Me
 ### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="16px">, my name is Vaibhav and I am an undergraduate student 👨🏻‍🎓 at Vellore Institute of Technology, Vellore 🏫 currently pursuing my Bachelors in Computer Science🤓.
 <br>
