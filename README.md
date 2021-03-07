@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 😉 About Me
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="16px">, my name is Vaibhav and I am an undergraduate student 👨🏻‍🎓 at Vellore Institute of Technology, Vellore 🏫 currently pursuing my Bachelors in Computer Science 🤓.
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="16px">, my name is Vaibhav and I am an undergraduate student 👨🏻‍🎓 at Vellore Institute of Technology, Vellore 🏫 currently pursuing my Bachelors in Computer Science <img src="nerd_face.gif" width="18px"/>.
 <br>
 
 # 👨🏻‍💻 Languages that I usually code in:
