@@ -12,6 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
 <header>
 <img src="header.png" width="1200"/>
 </header>
@@ -43,6 +51,8 @@ Here are some ideas to get you started:
 ### You can also <a href="mailto:sharmavaibhav110028@gmail.com">mail</a> me!
 <br>
 
-<center><img src="https://github-readme-stats.vercel.app/api?username=GhostVaibhav&show_icons=true&theme=tokyonight"/></center>
 
 [2]: https://www.linkedin.com/in/ghost-vaibhav/
+<footer>
+<img src="https://github-readme-stats.vercel.app/api?username=GhostVaibhav&show_icons=true&theme=tokyonight" class="center"/>
+</footer>
