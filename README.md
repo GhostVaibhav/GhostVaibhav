@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 
 [<img align="right" src="https://github-readme-stats.vercel.app/api?username=GhostVaibhav&show_icons=true&theme=tokyonight"/>](https://github.com/GhostVaibhav/)
 
-&nbsp;
-
 # 📫 How to reach me?
 
 ### Reach me out on  [<img src="linkedin.gif" width="20" height="20"/>][2]. I will be more than happy to connect with you!
