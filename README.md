@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <img src="header.png" width="1200"/>
 </header>
 
-# 😉 About Me
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="16px">, my name is Vaibhav and I am an undergraduate student 👨🏻‍🎓 at Vellore Institute of Technology, Vellore 🏫 currently pursuing my Bachelors in Computer Science🤓.
+# :wink: About Me
+### Hi :wave:, my name is Vaibhav and I am an undergraduate student 👨🏻‍🎓 at Vellore Institute of Technology, Vellore 🏫 currently pursuing my Bachelors in Computer Science:nerd_face:.
 <br>
 
 # 👨🏻‍💻 Languages that I usually code in:
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Well nothing out of the world, but trying my hands to learn various APIs, libraries and how they work. Also, learning about documenting my projects.
 <br>
 
-# 🔭 What am I currently working on?
+# :dart: What am I currently working on?
 ### I am currently working on a game, basically "Chess" with SFML and C++. <b>Seems easy</b> but hard to code
 <br>
 
