@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 ### Yes. Reach me out on  [<img src="linkedin.gif" width="20" height="20"/>][2]  and shoot a message about the project or <a href="mailto:sharmavaibhav110028@gmail.com">mail</a> me. If interested, I will definitely look forward to collaborate :)
 <br>
 
+
+[<img align="right" src="https://github-readme-stats.vercel.app/api?username=GhostVaibhav&show_icons=true&theme=tokyonight"/>](https://github.com/GhostVaibhav/)
+
 # 📫 How to reach me?
 
 ### Reach me out on  [<img src="linkedin.gif" width="20" height="20"/>][2]. I will be more than happy to connect with you!
@@ -45,6 +48,3 @@ Here are some ideas to get you started:
 
 
 [2]: https://www.linkedin.com/in/ghost-vaibhav/
-
-[<img align="right" src="https://github-readme-stats.vercel.app/api?username=GhostVaibhav&show_icons=true&theme=tokyonight"/>](https://github.com/GhostVaibhav/)
-
