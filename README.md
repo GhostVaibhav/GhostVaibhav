@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 
 
 [2]: https://www.linkedin.com/in/ghost-vaibhav/
-<footer>
-[<img align="center" src="https://github-readme-stats.vercel.app/api?username=GhostVaibhav&show_icons=true&theme=tokyonight"/>](https://github.com/GhostVaibhav)
-</footer>
+
+[<img align="center" src="https://github-readme-stats.vercel.app/api?username=GhostVaibhav&show_icons=true&theme=tokyonight"/>](https://github.com/GhostVaibhav/)
+
