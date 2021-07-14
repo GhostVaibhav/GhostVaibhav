@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 # 😄 Am I up for collaboration?
 
-### Yes. Reach me out on  [<img src="linkedin.gif" width="20" height="20"/>][2]  and shoot a message about the project or <a href="mailto:sharmavaibhav110028@gmail.com">mail</a> me. If interested, I will definitely look forward to collaborate :)
+### Yes. Reach me out on  [LinkedIn][2]  and shoot a message about the project or <a href="mailto:sharmavaibhav110028@gmail.com">mail</a> me. If interested, I will definitely look forward to collaborate :)
 <br>
 
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 # 📫 How to reach me?
 
-### Reach me out on  [<img src="linkedin.gif" width="20" height="20"/>][2]. I will be more than happy to connect with you!
+### Reach me out on  [LinkedIn][2]. I will be more than happy to connect with you!
 ### You can also <a href="mailto:sharmavaibhav110028@gmail.com">mail</a> me!
 <br>
 
