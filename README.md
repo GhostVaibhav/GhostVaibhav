@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br>
 
 
-[<img align="right" src="https://github-readme-stats.vercel.app/api?username=GhostVaibhav&show_icons=true&theme=tokyonight"/>](https://github.com/GhostVaibhav/)
+[<img align="right" src="https://github-readme-stats-lemon-two.vercel.app/api?username=GhostVaibhav&show_icons=true&theme=tokyonight"/>](https://github.com/GhostVaibhav/)
 
 # 📫 How to reach me?
 
