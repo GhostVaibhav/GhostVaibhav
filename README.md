@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br>
 
 # 🌱 What am I learning currently?
-### Well nothing out of the world, but trying my hands to learn various APIs, libraries and how they work. Also, learning about documenting my projects.
+### Well nothing out of the world, but trying my hands to learn various APIs, libraries, and how they work. Also, I learned about documenting my projects.
 <br>
 
 # :dart: What am I currently working on?
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 # 😄 Am I up for collaboration?
 
-### Yes. Reach me out on  [LinkedIn][2]  and shoot a message about the project or <a href="mailto:sharmavaibhav110028@gmail.com">mail</a> me. If interested, I will definitely look forward to collaborate :)
+### Yes. Reach me out on  [LinkedIn][2]  and shoot a message about the project or <a href="mailto:sharmavaibhav110028@gmail.com">mail</a> me. If interested, I will definitely look forward to collaborating :)
 <br>
 
 
