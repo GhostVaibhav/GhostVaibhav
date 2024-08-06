@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>
 
 # 👨🏻‍💻 Languages that I usually code in:
-### <b><li>C/C++</b> - Quite good in this, do most of my coding in this only<b><li>Python</b> - Beginner but able to handle basic tasks<b><li>HTML</b> - Beginner but able to make something quite quickly <b><li>CSS</b> - Same goes for it as well
+### <b><li>C/C++</b> - Quite good in this, do most of my coding in this only<b><li>Python</b> - Beginner but able to handle basic tasks<b><li>HTML</b> - Beginner but able to make something very quickly <b><li>CSS</b> - Same goes for it as well
 <br>
 
 # 🌱 What am I learning currently?
